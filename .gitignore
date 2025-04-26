@@ -1,0 +1,6 @@
+.logs/
+venv/
+.secrets/
+*.DS_Store
+todo_backup.txt
+*__pycache__/
